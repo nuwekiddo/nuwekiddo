@@ -20,4 +20,4 @@ I'm an student who aspires to become Web Developer and Software Engineer in the 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuwekiddo&theme=dracula" alt="nuwekiddo" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuwekiddo)](https://github.com/nuwekiddo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuwekiddo&theme=dracula)](https://github.com/nuwekiddo/github-readme-stats)
