@@ -4,12 +4,7 @@
 
 I'm an student who aspires to become Web Developer and Software Engineer in the industry.
 
-{
-  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
-  "issueId": 66,
-  "name": "Eddie Jaoude",
-  "username": "eddiejaoude"
-}
+<img align="right" alt="Coding width=400 scr="https://media.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif"> 
 
 <h3 align="left">Reach me:</h3>
 <p align="left">
