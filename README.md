@@ -4,9 +4,7 @@
 
 I'm a student who aspires to become Web Developer and Software Engineer in the industry.
 
-<p><img align="right" src="https://github.com/nuwekiddo/nuwekiddo/blob/main/coding.gif" width="500" height="300"/></p>
-
-![](https://komarev.com/ghpvc/?nuwekiddo=your-github-nuwekiddo)
+![](https://komarev.com/ghpvc/?username=nuwekiddo)
 
 <h3 align="left">Reach me:</h3>
 <p align="left">
