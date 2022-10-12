@@ -2,7 +2,7 @@
 
 **'Aspiring Web Developer and Software Engineer'**
 
-<h5>I'm a student who aspires to become Web Developer and Software Engineer in the industry.</h5>
+I'm a student who aspires to become Web Developer and Software Engineer in the industry.
 
 <h3 align="left">Reach me:</h3>
 <p align="left">
