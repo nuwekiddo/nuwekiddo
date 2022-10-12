@@ -4,6 +4,8 @@
 
 I'm an student who aspires to become Web Developer and Software Engineer in the industry.
 
+![](https://github.com/nuwekiddo/![Uploading coding.gif…]().gif)
+
 (img align="right" alt="Coding" width="400" src="https://media.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif")
 
 <h3 align="left">Reach me:</h3>
