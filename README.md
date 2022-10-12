@@ -6,6 +6,8 @@ I'm a student who aspires to become Web Developer and Software Engineer in the i
 
 <p><img align="right" src="https://github.com/nuwekiddo/nuwekiddo/blob/main/coding.gif" width="500" height="300"/></p>
 
+![](https://komarev.com/ghpvc/?nuwekiddo=your-github-nuwekiddo)
+
 <h3 align="left">Reach me:</h3>
 <p align="left">
 <a href="https://twitter.com/nuwekiddo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuwekiddo" height="30" width="40" /></a>
