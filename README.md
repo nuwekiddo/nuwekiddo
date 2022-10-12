@@ -4,6 +4,13 @@
 
 I'm an student who aspires to become Web Developer and Software Engineer in the industry.
 
+{
+  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
+  "issueId": 66,
+  "name": "Eddie Jaoude",
+  "username": "eddiejaoude"
+}
+
 <h3 align="left">Reach me:</h3>
 <p align="left">
 <a href="https://twitter.com/nuwekiddo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuwekiddo" height="30" width="40" /></a>
