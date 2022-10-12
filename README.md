@@ -3,8 +3,8 @@
 **'Aspiring Web Developer and Software Engineer'**
 
 I'm an student who aspires to become Web Developer and Software Engineer in the industry.
-
-![](https://github.com/nuwekiddo/![Uploading coding.gif…]().gif)
+![Uploading coding.gif…]()
+![](https://github.com/nuwekiddo/.gif)
 
 (img align="right" alt="Coding" width="400" src="https://media.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif")
 
