@@ -16,4 +16,4 @@ I'm an student who aspires to become Web Developer and Software Engineer in the 
 
 ![Noe's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuwekiddo&show_icons=true&theme=dracula)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuwekiddo&theme=radical" alt="nuwekiddo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuwekiddo&theme=dracula" alt="nuwekiddo" /></p>
