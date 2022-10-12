@@ -4,6 +4,8 @@
 
 I'm an student who aspires to become Web Developer and Software Engineer in the industry.
 
+[![Noe's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuwekiddo)](https://github.com/nuwekiddo/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nuwekiddo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuwekiddo" height="30" width="40" /></a>
