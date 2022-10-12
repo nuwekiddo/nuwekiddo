@@ -4,7 +4,7 @@
 
 I'm an student who aspires to become Web Developer and Software Engineer in the industry.
 
-<p><img align="right" src="" width="500" height="320"/></p>
+<p><img align="right" src="https://github.com/nuwekiddo/nuwekiddo/blob/main/coding.gif" width="500" height="320"/></p>
 
 
 <h3 align="left">Reach me:</h3>
