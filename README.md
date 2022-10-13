@@ -9,9 +9,7 @@ I'm a student who aspires to become Web Developer and Software Engineer in the i
 
 <h3 align="left">Reach me:</h3>
 <p align="left">
-<a href="https://fb.com/nuwekiddo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nuwekiddo" height="30" width="40" /></a>
-<a href="https://twitter.com/nuwekiddo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuwekiddo" height="30" width="40" /></a>
-<a href="https://instagram.com/nuwekiddo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuwekiddo" height="30" width="40" /></a>
+<a href="https://fb.com/nuwekiddo" target="blank"><img align="center" src="https://www.svgrepo.com/show/197950/facebook.svg" alt="nuwekiddo" height="30" width="40" /></a> <a href="https://twitter.com/nuwekiddo" target="blank"><img align="center" src="https://www.svgrepo.com/show/197949/twitter.svg" alt="nuwekiddo" height="30" width="40" /></a> <a href="https://instagram.com/nuwekiddo" target="blank"><img align="center" src="https://www.svgrepo.com/show/197957/instagram.svg" alt="nuwekiddo" height="30" width="40" /></a> <a href="https://www.youtube.com/channel/UC6ft8KxTCpgWu1oErlb193Q" target="blank"><img align="center" src="https://www.svgrepo.com/show/197953/youtube.svg" alt="nuwekiddo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools that I use:</h3>
