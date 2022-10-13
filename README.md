@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Noe Olleta
 
-**'Aspiring Web Developer and Software Engineer'**
+**'Aspiring Web Developer and Software Engineer from Flag: Philippines on JoyPixels '**
 
 I'm a student who aspires to become Web Developer and Software Engineer in the industry.
 
