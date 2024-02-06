@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Noe Olleta
 
-**'Aspiring Web Developer and Software Engineer from
+**'Aspiring Mobile Application Developer and Software Engineer from
   <img src="https://github.com/nuwekiddo/nuwekiddo/blob/main/flagPH.png" width="18" height="18" title="PHILIPPINES">'**
 
 I'm a student who aspires to become Web Developer and Software Engineer in the industry.
